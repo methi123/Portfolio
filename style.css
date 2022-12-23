@@ -1,0 +1,82 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+}
+
+
+span.home {
+  float: right;
+  margin-right: 20px;
+  font-size: 40px;
+}
+
+div.topcontainer {
+position: relative;
+background-color: #E4F9F5;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  display: block;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 3.5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  display: block;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 550px;
+    bottom: 300px;
+}
+div.middle-container{
+      margin: 100px 0;
+      height: auto;
+
+}
+
+h2.middle{
+  font-family: sans-serif;
+}
+.intro{
+  width: 20%;
+  margin: auto;
+}
+p{
+  line-height: 2;
+}
+hr {
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+.code-img{
+  width: 10%;
+}
+.skill{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+div.bottom{
+  height: 225px;
+  background-color: #E4F9F5
+}
